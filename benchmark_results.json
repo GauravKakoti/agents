@@ -1,0 +1,362 @@
+[
+    {
+        "action_matched": true,
+        "correct_action": "Click",
+        "predicted_action": "Click",
+        "normalized_error": 175.8676883017898,
+        "time_taken": 4.233876466751099,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Click",
+        "predicted_action": "Google",
+        "normalized_error": 0,
+        "time_taken": 3.9967284202575684,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Type",
+        "predicted_action": "Click",
+        "normalized_error": 0,
+        "time_taken": 9.171735763549805,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Scroll",
+        "predicted_action": "Type",
+        "normalized_error": 0,
+        "time_taken": 20.566147089004517,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Answer",
+        "predicted_action": "Click",
+        "normalized_error": 0,
+        "time_taken": 21.734211683273315,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Scroll",
+        "predicted_action": "Type",
+        "normalized_error": 0,
+        "time_taken": 19.624022006988525,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Type",
+        "predicted_action": "Click",
+        "normalized_error": 0,
+        "time_taken": 20.143153190612793,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Click",
+        "predicted_action": "Click",
+        "normalized_error": 172.95014783462972,
+        "time_taken": 17.61288094520569,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Type",
+        "predicted_action": "Click",
+        "normalized_error": 0,
+        "time_taken": 17.45793342590332,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Type",
+        "predicted_action": "Type",
+        "normalized_error": 1.7830045436636905,
+        "time_taken": 19.849867343902588,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Type",
+        "predicted_action": "Click",
+        "normalized_error": 0,
+        "time_taken": 24.551483869552612,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Click",
+        "predicted_action": "Click",
+        "normalized_error": 0.0,
+        "time_taken": 19.774199962615967,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Click",
+        "predicted_action": "Click",
+        "normalized_error": 252.59644806274684,
+        "time_taken": 23.474350690841675,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Click",
+        "predicted_action": "Google",
+        "normalized_error": 0,
+        "time_taken": 19.46469211578369,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Click",
+        "predicted_action": "GoBack",
+        "normalized_error": 0,
+        "time_taken": 21.05177354812622,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Answer",
+        "predicted_action": "Click",
+        "normalized_error": 0,
+        "time_taken": 20.43217182159424,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Type",
+        "predicted_action": "Type",
+        "normalized_error": 0.0,
+        "time_taken": 19.351665496826172,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Type",
+        "predicted_action": "Click",
+        "normalized_error": 0,
+        "time_taken": 16.215909719467163,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Click",
+        "predicted_action": "Google",
+        "normalized_error": 0,
+        "time_taken": 13.279381513595581,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Click",
+        "predicted_action": "Click",
+        "normalized_error": 57.88893557937794,
+        "time_taken": 18.786094427108765,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Scroll",
+        "predicted_action": "Click",
+        "normalized_error": 0,
+        "time_taken": 18.79617738723755,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Click",
+        "predicted_action": "Click",
+        "normalized_error": 172.95014783462972,
+        "time_taken": 18.866294622421265,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Click",
+        "predicted_action": "Click",
+        "normalized_error": 253.32358724361774,
+        "time_taken": 20.357321739196777,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Click",
+        "predicted_action": "Type",
+        "normalized_error": 0,
+        "time_taken": 22.354366540908813,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Type",
+        "predicted_action": "Click",
+        "normalized_error": 0,
+        "time_taken": 21.463814973831177,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Click",
+        "predicted_action": "Click",
+        "normalized_error": 181.96977501052146,
+        "time_taken": 17.437910556793213,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Click",
+        "predicted_action": "Type",
+        "normalized_error": 0,
+        "time_taken": 23.719688177108765,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Answer",
+        "predicted_action": "Click",
+        "normalized_error": 0,
+        "time_taken": 22.152422666549683,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Type",
+        "predicted_action": "Type",
+        "normalized_error": 2.6117450988188206e-06,
+        "time_taken": 16.376846075057983,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Click",
+        "predicted_action": "Click",
+        "normalized_error": 20.098679697256088,
+        "time_taken": 19.895514488220215,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Click",
+        "predicted_action": "Click",
+        "normalized_error": 336.19766923529966,
+        "time_taken": 17.259355783462524,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Answer",
+        "predicted_action": "Click",
+        "normalized_error": 0,
+        "time_taken": 19.927967071533203,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Click",
+        "predicted_action": "Click",
+        "normalized_error": 0.0,
+        "time_taken": 18.489573001861572,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Type",
+        "predicted_action": "Type",
+        "normalized_error": 4.760614397896435,
+        "time_taken": 15.648464679718018,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Click",
+        "predicted_action": "Click",
+        "normalized_error": 11.67971125921191,
+        "time_taken": 19.368693828582764,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Click",
+        "predicted_action": "Click",
+        "normalized_error": 1.2087672336234192,
+        "time_taken": 21.268431663513184,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": false,
+        "correct_action": "Answer",
+        "predicted_action": "Type",
+        "normalized_error": 0,
+        "time_taken": 18.889339447021484,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Type",
+        "predicted_action": "Type",
+        "normalized_error": 5.155844362125657e-06,
+        "time_taken": 15.474816799163818,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Click",
+        "predicted_action": "Click",
+        "normalized_error": 265.5938020997945,
+        "time_taken": 19.12613558769226,
+        "target_window_matched": null,
+        "direction_matched": null
+    },
+    {
+        "action_matched": true,
+        "correct_action": "Answer",
+        "predicted_action": "Answer",
+        "normalized_error": 0,
+        "time_taken": 21.43285822868347,
+        "target_window_matched": null,
+        "direction_matched": null
+    }
+]

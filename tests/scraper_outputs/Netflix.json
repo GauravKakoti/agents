@@ -1,0 +1,8 @@
+{
+    "prices": [
+      {"price": "$6.99", "currency": "$", "description": "Standard with ads per month"},
+      {"price": "$15.49", "currency": "$", "description": "Standard per month"},
+      {"price": "$22.99", "currency": "$", "description": "Premium per month"}
+    ]
+  }
+  

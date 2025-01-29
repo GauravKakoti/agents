@@ -1,0 +1,24 @@
+langchain-core==0.3.15
+langchain-groq
+langchain-openai
+python-dotenv
+asyncio
+typing
+pytest-playwright
+easyocr
+playwright
+aiofiles
+langgraph>=0.2.59
+langchain
+pytest
+streamlit
+ollama
+ImageHash
+qwen_vl_utils
+huggingface_hub
+# The below are omniparser specific
+ultralytics
+torch
+torchvision
+supervision
+transformers
